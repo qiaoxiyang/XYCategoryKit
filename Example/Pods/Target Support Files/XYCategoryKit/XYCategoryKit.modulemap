@@ -1,0 +1,6 @@
+framework module XYCategoryKit {
+  umbrella header "XYCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

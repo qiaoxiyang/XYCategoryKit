@@ -1,0 +1,25 @@
+PODS:
+  - SDWebImage (5.9.4):
+    - SDWebImage/Core (= 5.9.4)
+  - SDWebImage/Core (5.9.4)
+  - XYCategoryKit (0.1):
+    - SDWebImage
+
+DEPENDENCIES:
+  - XYCategoryKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  XYCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SDWebImage: b69257f4ab14e9b6a2ef53e910fdf914d8f757c1
+  XYCategoryKit: b3ac331caa54d57c2973b061bf1b3339cd8f8b3e
+
+PODFILE CHECKSUM: e2656b276d32d854e16246946f9ae29908b8e8ba
+
+COCOAPODS: 1.9.3
